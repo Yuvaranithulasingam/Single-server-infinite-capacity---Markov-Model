@@ -26,7 +26,7 @@ NAME : Yuvarani T
 Register number : 212222110057
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
-ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
+ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) : "))
 Robot_time=float(input("Enter the Additional time taken for the Robot (in secs) :  "))
 lam=1/arr_time
 mu=1/(ser_time+Robot_time)
