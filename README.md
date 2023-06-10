@@ -53,7 +53,7 @@ print("---------------------------------------------------------------")
 
 ## Output :
 
-![online](https://github.com/Yuvaranithulasingam/Single-server-infinite-capacity---Markov-Model/assets/121418522/766207e4-79a7-414a-9a86-72e2a28355e2)
+![COLAB 2](https://github.com/Yuvaranithulasingam/Single-server-infinite-capacity---Markov-Model/assets/121418522/6a8e63fd-59fb-47e9-b1c2-22ff919890e9)
 
 ## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
